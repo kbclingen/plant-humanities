@@ -8,13 +8,6 @@
 	data-num-primary-sources="4"
 	data-author="John Kress, PhD and Yota Batsaki, PhD"></var>
 
-<param ve-component 
-       name="d3plus-network"
-       src="https://jstor-labs.github.io/ve-components/components/D3PlusNetwork.vue"
-       selectors="tag:d3plus-network"
-       icon="fa-sitemap"
-       label="D3plus Network">
-
 ### Need Subtitle
 
 Heliconias, with their sculptural bracts and stunning colors, are an iconic tropical plant, widely distributed in ornamental gardens and the horticulture trade. Yet until fairly recently these plants were poorly known to scientists. Heliconias are large herbs with fleshy, bulky inflorescences and flowers, so botanists have not always collected them in the field and their character is hard to capture on a herbarium sheet. However, in recent decades,  both field observations and controlled experiments by botanists have led to fascinating discoveries about heliconias that illuminate the sophistication of plant-animal interactions, expand our understanding of evolution, and invite us to reconsider the astonishing capacity of plants to act on their environments.
@@ -79,7 +72,7 @@ Another strange group of heliconias in the South Pacific is found from S
 <param ve-map-layer geojson active url="geojson/heliconia_distribution.json">
 
 This is evolution at work. Indeed, the close relationships between some plants and animals and their interactions played a key role in the development of [Charles Darwin’s ideas on the process of natural selection and evolution](https://www.biodiversitylibrary.org/page/26253722](https://www.biodiversitylibrary.org/page/26253722)). Darwin was especially interested in the relationship between orchids and the insects that pollinated them. Heliconias offer equally interesting and unique relationships with their animal pollinators.
-<param ve-vis-network file="https://jstor-labs.github.io/plant-humanities/graphs/Heliconia.tsv">
+<param ve-vis-network file="/graphs/Heliconia.tsv">
 
 An extraordinary [example](https://link-springer-com.ezp-prod1.hul.harvard.edu/content/pdf/10.1007/s00442-011-2043-8.pdf) of coevolution, or reciprocal evolution between two species, is the relationship between heliconias and hummingbirds in the eastern arc of the Caribbean islands. The two species of heliconias native to these islands and the one species of hummingbird found there have coevolved in a very unique and interesting way. The two heliconias are quite different from each other, but the single species of hummingbird that pollinates them is so specialized that the small-bodied males visit the other species. Astonishingly, the shape and size of the bills of each sex corresponds to the shape and size of the flowers of the specific heliconias that they visit and feed from. In other words, one sex of the hummingbird has evolved with one species of heliconia and the other sex has evolved with the second species of plant.
 <param ve-storiiies id="e41co">
