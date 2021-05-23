@@ -132,6 +132,12 @@
 ![](/images/thumbnails/pelargonium.jpg)
 
 ##
+[**Peony: Pretty and Powerful**](/Peony)
+- author: Ashley Buchanan
+
+![](images/thumbnails/Peony_Thumbnail.jpg)
+
+##
 [**Sunflower: Knowledge, Myth, and Meaning**](/sunflower)
 
 - author: Kristan M. Hanson
