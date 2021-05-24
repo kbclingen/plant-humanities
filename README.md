@@ -24,6 +24,13 @@
 ![](/images/thumbnails/heliconia.jpg)
 
 ##
+[**Peony: Pretty and Powerful**](/Peony)
+
+- author: Ashley Buchanan
+
+![](images/thumbnails/Peony_Thumbnail.jpg)
+
+##
 [**Cinnamomum verum: Discovering “True” Cinnamon**](/cinnamon)
 
 - author: Wouter Klein
